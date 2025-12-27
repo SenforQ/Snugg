@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleLikeType</key>
+	<string>containerThroughProcess</string>
+	<key>dependencyActivitySaturation</key>
+	<string>behaviorAlongProxy</string>
+	<key>nodeMediatorDepth</key>
+	<string>flexAboutProxy</string>
+	<key>resultNumberShape</key>
+	<string>constLayoutMargin</string>
+	<key>singleContainerColor</key>
+	<string>alignmentOperationSaturation</string>
+	<key>transitionParameterTint</key>
+	<string>pinchableMasterRotation</string>
+	<key>zoneInterpreterBound</key>
+	<string>layerAmongMode</string>
+</dict>
+</plist>

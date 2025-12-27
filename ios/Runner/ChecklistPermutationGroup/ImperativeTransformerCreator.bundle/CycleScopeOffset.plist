@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeServiceShade</key>
+	<string>viewAboutStage</string>
+	<key>methodProxyAcceleration</key>
+	<string>sensorShapeRate</string>
+	<key>providerCommandSkewy</key>
+	<string>radioSystemBrightness</string>
+	<key>reducerAdapterSpeed</key>
+	<string>missionFrameworkShade</string>
+	<key>spinePlatformVisibility</key>
+	<string>composableLayoutCenter</string>
+	<key>streamAboutSingleton</key>
+	<string>touchDecoratorState</string>
+	<key>taskBufferTheme</key>
+	<string>equalizationByPattern</string>
+	<key>uniqueCosineSpeed</key>
+	<string>providerBeyondParameter</string>
+</dict>
+</plist>

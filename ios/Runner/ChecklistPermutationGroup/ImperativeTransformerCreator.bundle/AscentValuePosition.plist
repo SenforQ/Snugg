@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletThroughPhase</key>
+	<string>respectiveWorkflowRight</string>
+	<key>constraintInterpreterLocation</key>
+	<string>chartCompositeCoord</string>
+	<key>exceptionInterpreterHue</key>
+	<string>labelChainHue</string>
+	<key>hierarchicalNavigationContrast</key>
+	<string>navigatorNearAction</string>
+	<key>publicSubpixelShape</key>
+	<string>layoutAboutNumber</string>
+	<key>referenceThroughContext</key>
+	<string>certificateSystemTop</string>
+	<key>resultFromCommand</key>
+	<string>intuitiveGroupValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperKindMargin</key>
+	<string>clipperActivityInset</string>
+	<key>hardPageviewTail</key>
+	<string>litePopupInteraction</string>
+	<key>isolateLevelLocation</key>
+	<string>futureWithLevel</string>
+	<key>mediaqueryStructureResponse</key>
+	<string>cubeInState</string>
+	<key>modalParameterEdge</key>
+	<string>asyncHeroInset</string>
+	<key>monsterJobHue</key>
+	<string>storageFormSkewx</string>
+	<key>monsterOrMethod</key>
+	<string>layoutCycleResponse</string>
+	<key>utilCommandSaturation</key>
+	<string>channelStageSkewy</string>
+</dict>
+</plist>

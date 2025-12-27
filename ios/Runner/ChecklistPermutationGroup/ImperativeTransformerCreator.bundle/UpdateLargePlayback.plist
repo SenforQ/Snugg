@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGradientFeedback</key>
+	<string>assetProxyDensity</string>
+	<key>containerOrSingleton</key>
+	<string>cubitLayerAppearance</string>
+	<key>cubitContainKind</key>
+	<string>presenterCommandOrigin</string>
+	<key>curveCycleBrightness</key>
+	<string>observerWorkBrightness</string>
+	<key>methodActivityTail</key>
+	<string>decorationWorkInterval</string>
+	<key>priorityWorkDistance</key>
+	<string>builderFrameworkIndex</string>
+	<key>rowContextTag</key>
+	<string>transformerChainTransparency</string>
+	<key>singletonProxySkewx</key>
+	<string>taskDuringSingleton</string>
+</dict>
+</plist>

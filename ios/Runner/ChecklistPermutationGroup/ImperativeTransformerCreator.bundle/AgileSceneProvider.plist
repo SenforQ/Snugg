@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMenuFlags</key>
+	<string>transitionOrObserver</string>
+	<key>agileCardInset</key>
+	<string>displayableSpineDistance</string>
+	<key>checklistDecoratorMargin</key>
+	<string>disabledFactoryDepth</string>
+	<key>handlerVisitorForce</key>
+	<string>radioDecoratorVisible</string>
+	<key>specifyMediaBorder</key>
+	<string>coordinatorThroughTask</string>
+</dict>
+</plist>

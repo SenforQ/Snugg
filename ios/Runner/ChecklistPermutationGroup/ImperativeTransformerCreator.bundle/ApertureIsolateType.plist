@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxFlyweightInteraction</key>
+	<string>vectorNearShape</string>
+	<key>cubitAwayVisitor</key>
+	<string>factoryBridgeForce</string>
+	<key>draggableEffectContrast</key>
+	<string>primaryRowMargin</string>
+	<key>dropdownbuttonBridgeVisible</key>
+	<string>storageBesideMediator</string>
+	<key>finalColumnSpeed</key>
+	<string>taskAtProxy</string>
+	<key>matrixScopeTension</key>
+	<string>particleFormVisible</string>
+	<key>parallelFeatureSkewy</key>
+	<string>relationalConstraintHue</string>
+	<key>tableSinceMethod</key>
+	<string>modelAgainstVar</string>
+</dict>
+</plist>

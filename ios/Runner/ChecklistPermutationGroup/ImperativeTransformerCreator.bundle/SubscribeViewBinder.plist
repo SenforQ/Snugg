@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedChannelVisibility</key>
+	<string>reusableProfileBrightness</string>
+	<key>chapterFacadeCount</key>
+	<string>chapterLevelLocation</string>
+	<key>elasticChapterName</key>
+	<string>temporaryReferenceBrightness</string>
+	<key>entropySingletonVisible</key>
+	<string>segueUntilState</string>
+	<key>layoutOperationSkewx</key>
+	<string>tweenChainSaturation</string>
+	<key>retainedHashDuration</key>
+	<string>reducerAtProcess</string>
+	<key>touchSingletonTheme</key>
+	<string>autoRowPosition</string>
+</dict>
+</plist>

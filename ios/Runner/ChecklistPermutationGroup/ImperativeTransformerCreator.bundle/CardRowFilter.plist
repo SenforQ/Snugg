@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintStrategyDensity</key>
+	<string>subtleScaffoldPadding</string>
+	<key>drawerScopeFlags</key>
+	<string>variantChainFormat</string>
+	<key>futureStateTag</key>
+	<string>eventByLayer</string>
+	<key>listenerDecoratorBorder</key>
+	<string>mediocreUsageScale</string>
+	<key>permanentBuilderSpacing</key>
+	<string>eventProcessShape</string>
+	<key>providerInMode</key>
+	<string>materialAtAdapter</string>
+</dict>
+</plist>

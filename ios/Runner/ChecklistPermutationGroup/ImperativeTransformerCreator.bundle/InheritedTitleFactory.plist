@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperNumberFormat</key>
+	<string>interactorWithCommand</string>
+	<key>frameForPlatform</key>
+	<string>compositionalCellTop</string>
+	<key>loopViaCommand</key>
+	<string>secondBorderDirection</string>
+	<key>storeNearFacade</key>
+	<string>assetViaContext</string>
+	<key>tappableAlignmentMomentum</key>
+	<string>diversifiedPopupKind</string>
+</dict>
+</plist>

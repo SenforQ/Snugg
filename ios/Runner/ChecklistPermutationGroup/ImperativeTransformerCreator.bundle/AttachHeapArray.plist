@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionShapeAppearance</key>
+	<string>inheritedPositionRate</string>
+	<key>decorationScopeColor</key>
+	<string>paddingAgainstVariable</string>
+	<key>frameFromObserver</key>
+	<string>zoneOfStage</string>
+	<key>layoutContextState</key>
+	<string>slashVarTop</string>
+	<key>localNibKind</key>
+	<string>handlerVersusVariable</string>
+	<key>singletonOrActivity</key>
+	<string>zoneIncludeProcess</string>
+	<key>storageDespitePattern</key>
+	<string>permanentDelegateBound</string>
+	<key>taskJobVelocity</key>
+	<string>protectedAnimatedcontainerResponse</string>
+	<key>usedExtensionName</key>
+	<string>tweenNumberHead</string>
+</dict>
+</plist>

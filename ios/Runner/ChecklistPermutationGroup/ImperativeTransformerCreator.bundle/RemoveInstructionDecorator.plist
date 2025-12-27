@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCycleName</key>
+	<string>elasticOffsetTag</string>
+	<key>decorationOperationMode</key>
+	<string>mapAdapterTheme</string>
+	<key>explicitCommandFormat</key>
+	<string>intensityFromFlyweight</string>
+	<key>rectInterpreterDistance</key>
+	<string>independentLabelStyle</string>
+	<key>robustDurationMode</key>
+	<string>cubitBufferSpacing</string>
+	<key>rowFunctionDistance</key>
+	<string>providerLayerPosition</string>
+</dict>
+</plist>

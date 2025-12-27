@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAndNumber</key>
+	<string>compositionalConsumerTheme</string>
+	<key>controllerCycleBorder</key>
+	<string>queryDecoratorCenter</string>
+	<key>dependencyAwayCycle</key>
+	<string>titleCompositeSpacing</string>
+	<key>kernelPerJob</key>
+	<string>compositionalHashPosition</string>
+	<key>progressbarVariableLocation</key>
+	<string>subtleOperationValidation</string>
+	<key>resourceAlongVar</key>
+	<string>interactorInMediator</string>
+	<key>sessionBesideNumber</key>
+	<string>errorStageResponse</string>
+	<key>timerInterpreterLocation</key>
+	<string>hardRepositoryIndex</string>
+	<key>timerWithPlatform</key>
+	<string>asynchronousOptionSize</string>
+</dict>
+</plist>

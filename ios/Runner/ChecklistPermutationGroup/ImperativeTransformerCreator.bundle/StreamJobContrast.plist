@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normLevelLocation</key>
+	<string>checkboxAgainstFlyweight</string>
+	<key>previewCommandOrientation</key>
+	<string>inheritedListviewSkewy</string>
+	<key>singletonEnvironmentCount</key>
+	<string>responseContainFramework</string>
+	<key>standaloneTextureTint</key>
+	<string>hardReductionState</string>
+	<key>statefulActionMomentum</key>
+	<string>sophisticatedParticleOrientation</string>
+	<key>tappableCharacterDuration</key>
+	<string>temporaryModelTension</string>
+</dict>
+</plist>

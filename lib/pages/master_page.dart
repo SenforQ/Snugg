@@ -5,6 +5,7 @@ import '../utils/block_manager.dart';
 import 'report_page.dart';
 import 'master_figure_page.dart';
 import 'master_chat_page.dart';
+import 'image_full_page.dart';
 
 class Character {
   final String nickName;
@@ -240,11 +241,23 @@ class _MasterPageState extends State<MasterPage> {
                   return Stack(
                     children: [
                       // WorkImage
-                      Image.asset(
-                        character.workImage!,
-                        width: double.infinity,
-                        height: double.infinity,
-                        fit: BoxFit.cover,
+                      GestureDetector(
+                        onTap: () {
+                          Navigator.of(context).push(
+                            MaterialPageRoute(
+                              builder: (context) => ImageFullPage(
+                                imagePath: character.workImage!,
+                                title: character.nickName,
+                              ),
+                            ),
+                          );
+                        },
+                        child: Image.asset(
+                          character.workImage!,
+                          width: double.infinity,
+                          height: double.infinity,
+                          fit: BoxFit.cover,
+                        ),
                       ),
                       // 下半部分渐变黑色遮罩，从图片高度的一半开始
                       Positioned(

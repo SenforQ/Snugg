@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSinceCommand</key>
+	<string>sampleJobCount</string>
+	<key>contractionBesideVar</key>
+	<string>textfieldVarSaturation</string>
+	<key>cosinePlatformInset</key>
+	<string>titleAboutShape</string>
+	<key>decorationInterpreterMode</key>
+	<string>currentInterfaceOpacity</string>
+	<key>disabledBaselineRotation</key>
+	<string>euclideanInterfaceContrast</string>
+	<key>paddingSystemTheme</key>
+	<string>notifierDecoratorShape</string>
+	<key>pivotalPromiseBottom</key>
+	<string>labelPhaseColor</string>
+</dict>
+</plist>

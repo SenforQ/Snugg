@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorOutsideKind</key>
+	<string>pivotalAxisMargin</string>
+	<key>decorationCommandTheme</key>
+	<string>hardAspectratioBrightness</string>
+	<key>fusedSizedboxInteraction</key>
+	<string>themeVisitorStatus</string>
+	<key>graphMediatorContrast</key>
+	<string>interpolationScopePressure</string>
+	<key>observerMementoDuration</key>
+	<string>dropdownbuttonMementoName</string>
+	<key>routerAtStructure</key>
+	<string>layoutFacadeDuration</string>
+</dict>
+</plist>

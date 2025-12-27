@@ -30,10 +30,10 @@ class ImageFullPage extends StatelessWidget {
             ),
           ),
           // 返回按钮
-          SafeArea(
-            child: Positioned(
-              top: 0,
-              left: 0,
+          Positioned(
+            top: 0,
+            left: 0,
+            child: SafeArea(
               child: IconButton(
                 icon: const Icon(
                   Icons.arrow_back,
@@ -46,11 +46,11 @@ class ImageFullPage extends StatelessWidget {
           ),
           // 标题（如果有）
           if (title != null)
-            SafeArea(
-              child: Positioned(
-                top: 0,
-                left: 0,
-                right: 0,
+            Positioned(
+              top: 0,
+              left: 0,
+              right: 0,
+              child: SafeArea(
                 child: Padding(
                   padding: const EdgeInsets.only(top: 48),
                   child: Text(

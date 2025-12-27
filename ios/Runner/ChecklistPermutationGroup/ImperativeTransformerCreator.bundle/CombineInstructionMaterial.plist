@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStructureStatus</key>
+	<string>liteConstraintOrigin</string>
+	<key>chapterStrategySkewx</key>
+	<string>resultWithBuffer</string>
+	<key>profileAdapterSkewy</key>
+	<string>profileContainBuffer</string>
+	<key>segueInterpreterAcceleration</key>
+	<string>requestIncludeSystem</string>
+	<key>tabviewShapeCenter</key>
+	<string>rapidGradientColor</string>
+</dict>
+</plist>

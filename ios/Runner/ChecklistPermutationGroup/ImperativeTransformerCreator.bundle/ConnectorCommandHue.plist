@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScaleKind</key>
+	<string>behaviorStrategyScale</string>
+	<key>entropyLikeProxy</key>
+	<string>radiusByVar</string>
+	<key>singletonViaPlatform</key>
+	<string>sensorContainFramework</string>
+	<key>staticPreviewVisibility</key>
+	<string>builderThroughLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramBridgeCenter</key>
+	<string>gemObserverBrightness</string>
+	<key>iterativeMetadataInteraction</key>
+	<string>granularPreviewMode</string>
+	<key>mapFlyweightLocation</key>
+	<string>sceneWithoutParameter</string>
+	<key>positionedProcessBehavior</key>
+	<string>unaryOperationValidation</string>
+	<key>profilePrototypeVisibility</key>
+	<string>associatedQueueOrigin</string>
+	<key>subscriptionAndMemento</key>
+	<string>constraintContainStrategy</string>
+	<key>tappableGroupDelay</key>
+	<string>baseBeyondBridge</string>
+	<key>textContextScale</key>
+	<string>statefulWithActivity</string>
+</dict>
+</plist>

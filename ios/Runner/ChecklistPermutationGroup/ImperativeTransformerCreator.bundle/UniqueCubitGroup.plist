@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonEnvironmentValidation</key>
+	<string>visibleGesturedetectorType</string>
+	<key>buttonViaAdapter</key>
+	<string>catalystParamCoord</string>
+	<key>buttonWithoutVisitor</key>
+	<string>sharedSliderForce</string>
+	<key>clipperProxySize</key>
+	<string>petChainPadding</string>
+	<key>errorExceptFramework</key>
+	<string>gramFacadeDirection</string>
+	<key>modalOutsideContext</key>
+	<string>localErrorOpacity</string>
+	<key>queryAtChain</key>
+	<string>popupUntilProxy</string>
+	<key>queryVersusProcess</key>
+	<string>histogramScopeStatus</string>
+</dict>
+</plist>

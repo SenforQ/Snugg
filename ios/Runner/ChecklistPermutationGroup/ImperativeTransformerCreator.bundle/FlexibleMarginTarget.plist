@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAwayDecorator</key>
+	<string>prismaticTextfieldColor</string>
+	<key>batchOutsideParam</key>
+	<string>rapidAssetSpacing</string>
+	<key>curveParameterAcceleration</key>
+	<string>disabledMapSkewx</string>
+	<key>difficultMissionAcceleration</key>
+	<string>intermediateRequestBehavior</string>
+	<key>heroStyleDelay</key>
+	<string>expandedActionDelay</string>
+	<key>liteOptimizerLeft</key>
+	<string>substantialVectorBound</string>
+	<key>originalLayoutContrast</key>
+	<string>tabviewAgainstDecorator</string>
+	<key>sharedPositionFrequency</key>
+	<string>scrollableEffectSpacing</string>
+	<key>tickerOperationPosition</key>
+	<string>singleOperationBottom</string>
+</dict>
+</plist>

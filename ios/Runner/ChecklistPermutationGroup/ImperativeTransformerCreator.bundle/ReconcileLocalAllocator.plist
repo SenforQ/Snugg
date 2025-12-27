@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSwiftInset</key>
+	<string>oldTechniqueForce</string>
+	<key>behaviorOrForm</key>
+	<string>queryMementoTransparency</string>
+	<key>buttonStageValidation</key>
+	<string>optionAgainstFacade</string>
+	<key>cacheCycleShade</key>
+	<string>materialParticleHue</string>
+	<key>challengeStrategyShape</key>
+	<string>semanticTransformerMode</string>
+	<key>containerLikeSingleton</key>
+	<string>plateByFunction</string>
+	<key>futurePrototypeOrigin</key>
+	<string>beginnerHistogramTag</string>
+</dict>
+</plist>

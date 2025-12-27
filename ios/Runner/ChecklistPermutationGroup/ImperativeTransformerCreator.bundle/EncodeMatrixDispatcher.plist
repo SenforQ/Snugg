@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorActivityScale</key>
+	<string>buttonPrototypeScale</string>
+	<key>geometricRoleMargin</key>
+	<string>containerEnvironmentHue</string>
+	<key>semanticsFromProxy</key>
+	<string>cartesianAssetIndex</string>
+	<key>statefulModalBrightness</key>
+	<string>labelAlongMode</string>
+	<key>storyboardWithForm</key>
+	<string>inactiveDependencyOrientation</string>
+	<key>tensorTabviewFeedback</key>
+	<string>staticMovementOrientation</string>
+	<key>titleUntilType</key>
+	<string>exceptionDecoratorOffset</string>
+</dict>
+</plist>
