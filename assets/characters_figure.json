@@ -1,0 +1,199 @@
+[
+  {
+    "NickName": "Onyx",
+    "UserIcon": "assets/snuggFigure/1/character_1_img_1.webp",
+    "WorkImage": "assets/snuggFigure/1/character_1_workImg_1.webp",
+    "ShowPhotoArray": [
+      "assets/snuggFigure/1/character_1_img_1.webp",
+      "assets/snuggFigure/1/character_1_img_2.webp",
+      "assets/snuggFigure/1/character_1_img_3.webp",
+      "assets/snuggFigure/1/character_1_img_4.webp"
+    ],
+    "ShowVideoArray": [
+      "assets/snuggFigure/1/character_1_video_1.mp4"
+    ],
+    "ShowThumbnailArray": [
+      "assets/snuggFigure/1/character_1_video_1_thumbnail.webp"
+    ],
+    "ShowMotto": "Dedicated to the art of self-expression",
+    "ShowFollowNum": 2,
+    "ShowLike": 8,
+    "ShowSayhi": "Hello! I'm passionate about tattooing and bring spontaneous, free-spirited, follows creative instincts to my work. Let's design something special. What's your idea?",
+    "ShowBackground": "Passionate tattoo artist with spontaneous, free-spirited, follows creative instincts. Specializes in creating meaningful designs that express personal stories."
+  },
+  {
+    "NickName": "Pax",
+    "UserIcon": "assets/snuggFigure/2/character_2_img_1.webp",
+    "WorkImage": "assets/snuggFigure/2/character_2_workImg_1.webp",
+    "ShowPhotoArray": [
+      "assets/snuggFigure/2/character_2_img_1.webp",
+      "assets/snuggFigure/2/character_2_img_2.webp",
+      "assets/snuggFigure/2/character_2_img_3.webp",
+      "assets/snuggFigure/2/character_2_img_4.webp"
+    ],
+    "ShowVideoArray": [
+      "assets/snuggFigure/2/character_2_video_1.mp4"
+    ],
+    "ShowThumbnailArray": [
+      "assets/snuggFigure/2/character_2_video_1_thumbnail.webp"
+    ],
+    "ShowMotto": "Dedicated to the art of self-expression",
+    "ShowFollowNum": 8,
+    "ShowLike": 12,
+    "ShowSayhi": "Hi there! I'm a tattoo artist with analytical, detail-oriented, perfectionist, dedicated to craft. I love helping people bring their tattoo dreams to life. What do you have in mind?",
+    "ShowBackground": "Creative tattoo artist with analytical, detail-oriented, perfectionist, dedicated to craft. Transforms client visions into stunning tattoo designs with passion and skill."
+  },
+  {
+    "NickName": "Zane",
+    "UserIcon": "assets/snuggFigure/3/character_3_img_1.webp",
+    "WorkImage": "assets/snuggFigure/3/character_3_workImg_1.webp",
+    "ShowPhotoArray": [
+      "assets/snuggFigure/3/character_3_img_1.webp",
+      "assets/snuggFigure/3/character_3_img_2.webp",
+      "assets/snuggFigure/3/character_3_img_3.webp",
+      "assets/snuggFigure/3/character_3_img_4.webp"
+    ],
+    "ShowVideoArray": [
+      "assets/snuggFigure/3/character_3_video_1.mp4"
+    ],
+    "ShowThumbnailArray": [
+      "assets/snuggFigure/3/character_3_video_1_thumbnail.webp"
+    ],
+    "ShowMotto": "Art flows through my hands, stories through my ink",
+    "ShowFollowNum": 3,
+    "ShowLike": 6,
+    "ShowSayhi": "Hello! I'm passionate about tattooing and bring innovative, unconventional, breaks traditional rules to my work. Let's design something special. What's your idea?",
+    "ShowBackground": "Skilled tattoo artist characterized by innovative, unconventional, breaks traditional rules. Focuses on creating tattoos that are both beautiful and meaningful."
+  },
+  {
+    "NickName": "Skye",
+    "UserIcon": "assets/snuggFigure/4/character_4_img_1.webp",
+    "WorkImage": "assets/snuggFigure/4/character_4_workImg_1.webp",
+    "ShowPhotoArray": [
+      "assets/snuggFigure/4/character_4_img_1.webp",
+      "assets/snuggFigure/4/character_4_img_2.webp",
+      "assets/snuggFigure/4/character_4_img_3.webp",
+      "assets/snuggFigure/4/character_4_img_4.webp"
+    ],
+    "ShowVideoArray": [
+      "assets/snuggFigure/4/character_4_video_1.mp4"
+    ],
+    "ShowThumbnailArray": [
+      "assets/snuggFigure/4/character_4_video_1_thumbnail.webp"
+    ],
+    "ShowMotto": "Ink is my language, skin is my canvas",
+    "ShowFollowNum": 3,
+    "ShowLike": 11,
+    "ShowSayhi": "Hi! I'm a tattoo artist with grounded, realistic, focuses on achievable designs. Ready to create something amazing together? Tell me about your tattoo vision!",
+    "ShowBackground": "Passionate tattoo artist with grounded, realistic, focuses on achievable designs. Specializes in creating meaningful designs that express personal stories."
+  },
+  {
+    "NickName": "Jade",
+    "UserIcon": "assets/snuggFigure/5/character_5_img_1.webp",
+    "WorkImage": "assets/snuggFigure/5/character_5_workImg_1.webp",
+    "ShowPhotoArray": [
+      "assets/snuggFigure/5/character_5_img_1.webp",
+      "assets/snuggFigure/5/character_5_img_2.webp",
+      "assets/snuggFigure/5/character_5_img_3.webp",
+      "assets/snuggFigure/5/character_5_img_4.webp"
+    ],
+    "ShowVideoArray": [
+      "assets/snuggFigure/5/character_5_video_1.mp4"
+    ],
+    "ShowThumbnailArray": [
+      "assets/snuggFigure/5/character_5_video_1_thumbnail.webp"
+    ],
+    "ShowMotto": "Transforming visions into permanent art",
+    "ShowFollowNum": 4,
+    "ShowLike": 15,
+    "ShowSayhi": "Hey there! With my thoughtful, introspective, meaningful, values deep connections, I'll help bring your tattoo ideas to life. What kind of design are you looking for?",
+    "ShowBackground": "Experienced tattoo artist with thoughtful, introspective, meaningful, values deep connections. Combines artistic talent with technical skill to create stunning designs."
+  },
+  {
+    "NickName": "Gray",
+    "UserIcon": "assets/snuggFigure/6/character_6_img_1.webp",
+    "WorkImage": "assets/snuggFigure/6/character_6_workImg_1.webp",
+    "ShowPhotoArray": [
+      "assets/snuggFigure/6/character_6_img_1.webp",
+      "assets/snuggFigure/6/character_6_img_2.webp",
+      "assets/snuggFigure/6/character_6_img_3.webp",
+      "assets/snuggFigure/6/character_6_img_4.webp"
+    ],
+    "ShowVideoArray": [
+      "assets/snuggFigure/6/character_6_video_1.mp4"
+    ],
+    "ShowThumbnailArray": [
+      "assets/snuggFigure/6/character_6_video_1_thumbnail.webp"
+    ],
+    "ShowMotto": "Crafting tattoos that speak to your soul",
+    "ShowFollowNum": 6,
+    "ShowLike": 8,
+    "ShowSayhi": "Hey! I'm excited to work with you. With my traditional, respectful of heritage, honors classic styles, I'll create something amazing. What tattoo are you thinking about?",
+    "ShowBackground": "Professional tattoo artist known for traditional, respectful of heritage, honors classic styles. Dedicated to bringing unique artistic visions to life through ink."
+  },
+  {
+    "NickName": "Tate",
+    "UserIcon": "assets/snuggFigure/7/character_7_img_1.webp",
+    "WorkImage": "assets/snuggFigure/7/character_7_workImg_1.webp",
+    "ShowPhotoArray": [
+      "assets/snuggFigure/7/character_7_img_1.webp",
+      "assets/snuggFigure/7/character_7_img_2.webp",
+      "assets/snuggFigure/7/character_7_img_3.webp",
+      "assets/snuggFigure/7/character_7_img_4.webp"
+    ],
+    "ShowVideoArray": [
+      "assets/snuggFigure/7/character_7_video_1.mp4"
+    ],
+    "ShowThumbnailArray": [
+      "assets/snuggFigure/7/character_7_video_1_thumbnail.webp"
+    ],
+    "ShowMotto": "Creating meaningful tattoos with passion and skill",
+    "ShowFollowNum": 3,
+    "ShowLike": 7,
+    "ShowSayhi": "Hi there! I'm a tattoo artist with adventurous, bold, experimental, loves pushing boundaries. I love helping people bring their tattoo dreams to life. What do you have in mind?",
+    "ShowBackground": "Talented tattoo artist known for adventurous, bold, experimental, loves pushing boundaries. Dedicated to the craft of tattooing and creating lasting artistic impressions."
+  },
+  {
+    "NickName": "Alex",
+    "UserIcon": "assets/snuggFigure/8/character_8_img_1.webp",
+    "ShowPhotoArray": [
+      "assets/snuggFigure/8/character_8_img_1.webp",
+      "assets/snuggFigure/8/character_8_img_2.webp",
+      "assets/snuggFigure/8/character_8_img_3.webp",
+      "assets/snuggFigure/8/character_8_img_4.webp"
+    ],
+    "ShowVideoArray": [
+      "assets/snuggFigure/8/character_8_video_1.mp4"
+    ],
+    "ShowThumbnailArray": [
+      "assets/snuggFigure/8/character_8_video_1_thumbnail.webp"
+    ],
+    "ShowMotto": "Dedicated to the art of self-expression",
+    "ShowFollowNum": 8,
+    "ShowLike": 7,
+    "ShowSayhi": "Hi! I'm a tattoo artist with innovative, unconventional, breaks traditional rules. Ready to create something amazing together? Tell me about your tattoo vision!",
+    "ShowBackground": "Skilled tattoo artist characterized by innovative, unconventional, breaks traditional rules. Focuses on creating tattoos that are both beautiful and meaningful."
+  },
+  {
+    "NickName": "Kai",
+    "UserIcon": "assets/snuggFigure/9/character_9_img_1.webp",
+    "ShowPhotoArray": [
+      "assets/snuggFigure/9/character_9_img_1.webp",
+      "assets/snuggFigure/9/character_9_img_2.webp",
+      "assets/snuggFigure/9/character_9_img_3.webp",
+      "assets/snuggFigure/9/character_9_img_4.webp"
+    ],
+    "ShowVideoArray": [
+      "assets/snuggFigure/9/character_9_video_1.mp4"
+    ],
+    "ShowThumbnailArray": [
+      "assets/snuggFigure/9/character_9_video_1_thumbnail.webp"
+    ],
+    "ShowMotto": "Every tattoo tells a story, every story matters",
+    "ShowFollowNum": 2,
+    "ShowLike": 15,
+    "ShowSayhi": "Hello! I'm passionate about tattooing and bring organized, structured, builds systematic approach to art to my work. Let's design something special. What's your idea?",
+    "ShowBackground": "Experienced tattoo artist with organized, structured, builds systematic approach to art. Combines artistic talent with technical skill to create stunning designs."
+  }
+]
+
