@@ -2,10 +2,12 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../utils/block_manager.dart';
+import '../services/coin_service.dart';
 import 'report_page.dart';
 import 'master_figure_page.dart';
 import 'master_chat_page.dart';
 import 'image_full_page.dart';
+import 'wallet_snugg_page.dart';
 
 class Character {
   final String nickName;
@@ -136,7 +138,21 @@ class _MasterPageState extends State<MasterPage> {
                 const SizedBox(height: 20),
                 // 下方图片
                 GestureDetector(
-                  onTap: () {
+                  onTap: () async {
+                    // 检查硬币余额
+                    final currentCoins = await CoinService.getCurrentCoins();
+                    if (currentCoins < CoinService.tattooCreativityCoins) {
+                      _showInsufficientCoinsDialog();
+                      return;
+                    }
+
+                    // 扣除硬币
+                    final success = await CoinService.deductCoins(CoinService.tattooCreativityCoins);
+                    if (!success) {
+                      _showInsufficientCoinsDialog();
+                      return;
+                    }
+
                     // 跳转到聊天页面，使用第一个角色
                     if (_characters.isNotEmpty) {
                       Navigator.of(context).push(
@@ -496,6 +512,69 @@ class _MasterPageState extends State<MasterPage> {
             ),
           ),
         ),
+      ),
+    );
+  }
+
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: Colors.white,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(20),
+        ),
+        title: const Text(
+          'Insufficient Coins',
+          style: TextStyle(
+            fontSize: 20,
+            fontWeight: FontWeight.bold,
+            color: Colors.black87,
+          ),
+        ),
+        content: Text(
+          'You need ${CoinService.tattooCreativityCoins} Coins to use Tattoo Creativity. Please purchase more coins.',
+          style: const TextStyle(
+            fontSize: 16,
+            color: Colors.black87,
+          ),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(),
+            child: const Text(
+              'Cancel',
+              style: TextStyle(
+                color: Colors.black54,
+                fontSize: 16,
+              ),
+            ),
+          ),
+          ElevatedButton(
+            onPressed: () {
+              Navigator.of(context).pop();
+              Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (context) => const WalletSnuggPage(),
+                ),
+              );
+            },
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFFFFDC05),
+              foregroundColor: Colors.black87,
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(20),
+              ),
+            ),
+            child: const Text(
+              'Buy Coins',
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                fontSize: 16,
+              ),
+            ),
+          ),
+        ],
       ),
     );
   }

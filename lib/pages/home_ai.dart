@@ -1,6 +1,8 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
+import '../services/coin_service.dart';
+import 'wallet_snugg_page.dart';
 
 class HomeAiPage extends StatefulWidget {
   const HomeAiPage({super.key});
@@ -46,6 +48,20 @@ class _HomeAiPageState extends State<HomeAiPage> {
   Future<void> _sendMessage() async {
     final text = _messageController.text.trim();
     if (text.isEmpty || _isLoading) {
+      return;
+    }
+
+    // 检查硬币余额
+    final currentCoins = await CoinService.getCurrentCoins();
+    if (currentCoins < CoinService.tattooDailyCareCoins) {
+      _showInsufficientCoinsDialog();
+      return;
+    }
+
+    // 扣除硬币
+    final success = await CoinService.deductCoins(CoinService.tattooDailyCareCoins);
+    if (!success) {
+      _showInsufficientCoinsDialog();
       return;
     }
 
@@ -122,6 +138,69 @@ class _HomeAiPageState extends State<HomeAiPage> {
         );
       }
     });
+  }
+
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: Colors.white,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(20),
+        ),
+        title: const Text(
+          'Insufficient Coins',
+          style: TextStyle(
+            fontSize: 20,
+            fontWeight: FontWeight.bold,
+            color: Colors.black87,
+          ),
+        ),
+        content: Text(
+          'You need ${CoinService.tattooDailyCareCoins} Coins to use Tattoo Daily Care. Please purchase more coins.',
+          style: const TextStyle(
+            fontSize: 16,
+            color: Colors.black87,
+          ),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(),
+            child: const Text(
+              'Cancel',
+              style: TextStyle(
+                color: Colors.black54,
+                fontSize: 16,
+              ),
+            ),
+          ),
+          ElevatedButton(
+            onPressed: () {
+              Navigator.of(context).pop();
+              Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (context) => const WalletSnuggPage(),
+                ),
+              );
+            },
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFFFFDC05),
+              foregroundColor: Colors.black87,
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(20),
+              ),
+            ),
+            child: const Text(
+              'Buy Coins',
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                fontSize: 16,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
   }
 
   @override

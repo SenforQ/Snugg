@@ -5,6 +5,7 @@ import 'snugg_editor_page.dart';
 import 'privacy_policy_page.dart';
 import 'user_agreement_page.dart';
 import 'about_us_page.dart';
+import 'wallet_snugg_page.dart';
 
 class MePage extends StatefulWidget {
   const MePage({super.key});
@@ -74,6 +75,7 @@ class _MePageState extends State<MePage> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 _buildProfileSection(),
+                _buildVipButton(),
                 const SizedBox(height: 32),
                 _buildMenuList(),
                 SizedBox(height: MediaQuery.of(context).padding.bottom + 12 + 89),
@@ -143,6 +145,25 @@ class _MePageState extends State<MePage> {
               ),
             ),
           ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildVipButton() {
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 20.0),
+      child: GestureDetector(
+        onTap: () {
+          Navigator.of(context).push(
+            MaterialPageRoute(
+              builder: (context) => const WalletSnuggPage(),
+            ),
+          );
+        },
+        child: Image.asset(
+          'assets/btn_me_vip.webp',
+          fit: BoxFit.contain,
         ),
       ),
     );
